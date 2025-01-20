@@ -26,3 +26,6 @@
 - The main thread reads user input from the console and sends it to the server.
 - The client sends messages to the server, and upon receiving messages from the server, it displays them in the console.
 
+# OUTPUT OF THE TASK
+
+
