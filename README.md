@@ -29,5 +29,5 @@
 # OUTPUT OF THE TASK
 
 ![Image](https://github.com/user-attachments/assets/d6968bbd-fd25-4778-9e96-f867250870e7)
-![Image](https://github.com/user-attachments/assets/d0dc3286-1b78-46f7-9973-075971be4629)
+
 
